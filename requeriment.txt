@@ -1,0 +1,7 @@
+streamlit
+pandas
+sentence_transformers
+pinecone
+langchain_openai
+langchain
+dotenv
